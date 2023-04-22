@@ -2,7 +2,7 @@
 
 Handling missing values is an important step in data preprocessing. Missing data can arise due to various reasons such as data collection errors, incomplete data, or data not being available for some observations. Here are some common methods for handling missing values:
 
-Deletion: Deletion involves removing the missing values from the dataset.
+#Deletion: Deletion involves removing the missing values from the dataset.
 
 Imputation: Imputation involves replacing missing values with estimated values. This can be done using various techniques such as:
 Mean, median, or mode imputation: This involves replacing missing values with the mean, median, or mode value of the variable.
